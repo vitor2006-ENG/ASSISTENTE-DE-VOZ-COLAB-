@@ -1,4 +1,4 @@
-# 🎤 Assistente de Voz com Inteligência Artificial
+# Assistente de Voz com Inteligência Artificial
 
 Este projeto implementa um **assistente de voz inteligente**, capaz de ouvir o usuário, transcrever a fala, gerar uma resposta usando Inteligência Artificial e retornar essa resposta em áudio.
 
