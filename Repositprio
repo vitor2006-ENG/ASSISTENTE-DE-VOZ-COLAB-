@@ -1,0 +1,49 @@
+## Assistente de Voz com IA (Speech-to-Text + ChatGPT + Text-to-Speech)
+
+Este projeto implementa um **assistente de voz inteligente** capaz de **ouvir**, **entender** e **responder em áudio**, utilizando tecnologias modernas de **Inteligência Artificial**.
+
+A aplicação captura a voz do usuário diretamente no navegador, realiza a **transcrição do áudio com Whisper**, processa a entrada usando um modelo da OpenAI (ChatGPT) e, por fim, **sintetiza a resposta em voz**, criando uma experiência completa de **interação por fala**.
+
+## Funcionalidades
+
+* Gravação de áudio diretamente no navegador (Google Colab)
+* Reconhecimento de fala com **Whisper**
+* Processamento de linguagem natural com **ChatGPT**
+* Conversão de texto em voz (Text-to-Speech)
+* Suporte a múltiplos idiomas (configurável)
+* Pipeline completo: **Speech → Text → IA → Voice**
+
+## Tecnologias Utilizadas
+
+* **Python**
+* **JavaScript (MediaStream Recording API)**
+* **Whisper (OpenAI)**
+* **OpenAI API (ChatGPT)**
+* **gTTS (Google Text-to-Speech)**
+* **Google Colab**
+
+## Aplicações do Projeto
+
+* Assistentes virtuais
+* Interfaces por voz
+* Estudos de IA, NLP e Speech Processing
+* Projetos educacionais
+* Demonstrações e portfólio acadêmico
+
+## Como Executar
+
+1. Abra o projeto no **Google Colab**
+2. Insira sua **OpenAI API Key**
+3. Execute as células em ordem
+4. Permita o acesso ao microfone
+5. Fale e ouça a resposta da IA 🎧
+
+##  Objetivo
+
+Este projeto foi desenvolvido com foco em **aprendizado prático**, explorando a integração entre **reconhecimento de fala**, **modelos de linguagem** e **síntese de voz**, demonstrando como criar aplicações interativas baseadas em IA de forma acessível e funcional.
+
+## Autor
+
+**Vitor Mota**
+Estudante de Engenharia da Computação
+Interessado em IA, automação, educação e tecnologias interativas
