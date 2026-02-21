@@ -38,7 +38,3 @@ assistente-voz-com-ia/
 ├── README.md                   # Documentação
 ├── requirements.txt            # Dependências do projeto
 └── .gitignore                  # Arquivos ignorados pelo Git
-
-git clone https://github.com/seu-usuario/assistente-voz-com-ia.git
-
-os.environ["OPENAI_API_KEY"] = "SUA_API_KEY_AQUI"
